@@ -15,7 +15,7 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: #FA8072;
+  background-color: #FFFFFF;
   height: 3.5em;
   padding: 1em;
 }
@@ -27,7 +27,7 @@ img.logo {
 }
 
 .page-title {
-  color: #6B6B6B;
+  color: #FA8072;
   float: left;
   font-size: 1.1rem;
   line-height: 3rem;
