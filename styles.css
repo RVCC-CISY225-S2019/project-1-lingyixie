@@ -15,7 +15,7 @@ body {
   /*height: 25vw;*/
   /*max-height: 150px;*/
   /*width: 100%;*/
-  background-color: #FA8072;
+  background-color: #FFFFFF;
   height: 3.5em;
   padding: 1em;
 }
@@ -60,7 +60,7 @@ img.logo {
 .hero {
   padding: 4em;
   max-width: 100%;
-  background-color: ##A8072;
+  background-color: #FA8072;
   color: white;
 }
 
